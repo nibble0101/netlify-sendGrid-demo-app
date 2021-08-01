@@ -28,3 +28,7 @@ Follow the steps below to run the app locally.
 7. Run the command `npm install netlify-cli -g` to install `netlify-cli` package
 8. Run the command `netlify dev` to start the development server on port `8888`
 9. Fill in the form and then submit. You should be able to see an email in your inbox if you followed the above steps correctly.
+
+## License
+
+[MIT](LICENSE)
